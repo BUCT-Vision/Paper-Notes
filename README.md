@@ -1,7 +1,4 @@
 # CV-DL Recommandations
-Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions while experiments. Anyone in the organization can edit this file through creating a new branch with your name.
-
-# Computer Vision Deep learning Recommandation
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments.
 ## Content
 - [Backbone Network](#Backbone--Network)
