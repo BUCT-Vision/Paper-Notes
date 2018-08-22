@@ -41,7 +41,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 - Image Captioning with Semantic Attention(2016) [[pdf]](https://arxiv.org/abs/1603.03925) [[code]](https://github.com/chapternewscu/image-captioning-with-semantic-attention)
 
-- Attention Is All You Need(2017) [[pdf]](https://arxiv.org/abs/1706.03762) [[code_PyTorch]]((https://github.com/jadore801120/attention-is-all-you-need-pytorch)) [[code_TensorFlow]](https://github.com/Kyubyong/transformer)
+- Attention Is All You Need(2017) [[pdf]](https://arxiv.org/abs/1706.03762) [[code_PyTorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[code_TensorFlow]](https://github.com/Kyubyong/transformer)
 
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering(2017) [[pdf]](https://arxiv.org/abs/1707.07998) [[code]](https://github.com/peteanderson80/bottom-up-attention)
 
