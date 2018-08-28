@@ -47,7 +47,10 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 - Attention U-Net:Learning Where to Look for the Pancreas(2018) [[pdf]](https://arxiv.org/abs/1804.03999) [[code]](https://github.com/ozan-oktay/Attention-Gated-Networks)
 
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
+
 ### Natural Language Processing Related
+- Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
 
 ### Dataset
 
