@@ -60,3 +60,4 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 
 
 ### Training Techniques
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
