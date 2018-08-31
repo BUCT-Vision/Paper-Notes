@@ -54,11 +54,20 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Natural Language Processing Related
 - Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction(2018) [[pdf]](https://arxiv.org/abs/1808.03867) [[code]](https://github.com/elbayadm/attn2d)
 
-### Dataset
+### Dataset and Contest
 
-#### 1. Medical Image Analysis
+#### 1. Dataset
+
+- [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+- [Cityscapes](https://www.cityscapes-dataset.com/)
 - [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org)
+- [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+- [PASCAL-Context](https://cs.stanford.edu/~roozbeh/pascal-context/)
+- [SUNRGBD](http://rgbd.cs.princeton.edu/)
+- [ADE20k](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
+#### 2. Contest
+[AI Challenger](https://challenger.ai/)
 
 ### Training Techniques
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
