@@ -1,17 +1,17 @@
 # CV-DL Recommandations
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments.
-## Content
-*  [Backbone Network](#Backbone\ Network)
-* [Image Recognition](#Image\ Recognition)
-* [Super Resolution](#Super\ Resolution)
-* [Object Detection](#Object\ Detection)
-* [Semantic Segmentation](#Semantic\ Segmentation)
-* [Image Caption](#Image\ Caption)
-* [Generative Adversarial Networks](#Generative\ Adversarial\ Networks)
-* [Attention Mechanism](#Attention\ Mechanism)
-* [Natural Language Processing Related](#Natural\ Language\ Processing\ Related)
-* [Dataset and Contest](#Dataset\ and\ Contest)
-* [Training Techniques](#Training\ Techniques)
+## Contents
+*  [Backbone Network](#Backbone-Network)
+* [Image Recognition](#Image-Recognition)
+* [Super Resolution](#Super-Resolution)
+* [Object Detection](#Object-Detection)
+* [Semantic Segmentation](#Semantic-Segmentation)
+* [Image Caption](#Image-Caption)
+* [Generative Adversarial Networks](#Generative-Adversarial-Networks)
+* [Attention Mechanism](#Attention-Mechanism)
+* [Natural Language Processing Related](#Natural-Language-Processing-Related)
+* [Dataset and Contest](#Dataset-and-Contest)
+* [Training Techniques](#Training-Techniques)
 
 
 ### Backbone Network
