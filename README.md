@@ -36,6 +36,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - CNN+CNN: Convolutional Decoders for Image Captioning (2018) [[pdf]](https://arxiv.org/abs/1805.09019)
 ### Generative Adversarial Networks
 - Video-to-Video Synthesis(2018) [[pdf]](https://arxiv.org/abs/1808.06601) [[code_PyTorch]](https://github.com/NVIDIA/vid2vid)
+- Diverse Image-to-Image Translation via Disentangled Representations(2018.8) [[pdf]](https://arxiv.org/abs/1808.00948) [[code_PyTorch]](https://github.com/HsinYingLee/DRIT) <font color=Gray >(Notes: maybe suitable for unpaired MR-CT synthesis for human body)</font>
 
 ### Attention Mechanism
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention(2015) [[pdf]](https://arxiv.org/abs/1502.03044) [[code_TensorFlow]](https://github.com/yunjey/show-attend-and-tell) [[code_PyTorch]](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
