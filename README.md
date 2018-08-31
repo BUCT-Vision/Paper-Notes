@@ -67,7 +67,7 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 - [ADE20k](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
 #### 2. Contest
-[AI Challenger](https://challenger.ai/)
+- [AI Challenger](https://challenger.ai/)
 
 ### Training Techniques
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
