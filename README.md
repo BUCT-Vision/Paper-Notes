@@ -1,17 +1,21 @@
 # CV-DL Recommandations
 Recommanded resources in Computer Vision and Deep Learning including advanced paper and issue-solutions in experiments.
 ## Contents
-*  [Backbone Network](#Backbone-Network)
-* [Image Recognition](#Image-Recognition)
-* [Super Resolution](#Super-Resolution)
-* [Object Detection](#Object-Detection)
-* [Semantic Segmentation](#Semantic-Segmentation)
-* [Image Caption](#Image-Caption)
-* [Generative Adversarial Networks](#Generative-Adversarial-Networks)
-* [Attention Mechanism](#Attention-Mechanism)
-* [Natural Language Processing Related](#Natural-Language-Processing-Related)
-* [Dataset and Contest](#Dataset-and-Contest)
-* [Training Techniques](#Training-Techniques)
+- [CV-DL Recommandations](#cv-dl-recommandations)
+    - [Contents](#contents)
+        - [Backbone Network](#backbone-network)
+        - [Image Recognition](#image-recognition)
+        - [Super Resolution](#super-resolution)
+        - [Object Detection](#object-detection)
+        - [Semantic Segmentation](#semantic-segmentation)
+        - [Image Caption](#image-caption)
+        - [Generative Adversarial Networks](#generative-adversarial-networks)
+        - [Attention Mechanism](#attention-mechanism)
+        - [Natural Language Processing Related](#natural-language-processing-related)
+        - [Dataset and Contest](#dataset-and-contest)
+            - [1. Dataset](#1-dataset)
+            - [2. Contest](#2-contest)
+        - [Training Techniques](#training-techniques)
 
 
 ### Backbone Network
@@ -23,6 +27,9 @@ Recommanded resources in Computer Vision and Deep Learning including advanced pa
 ### Object Detection
 
 ### Semantic Segmentation
+- Vortex Pooling: Improving Context Representation in Semantic Segmentation(2018.4) [[pdf]](https://arxiv.org/pdf/1804.06242)
+
+- Pyramid Attention Network for Semantic Segmentation(2018.5) [[pdf]](https://arxiv.org/pdf/1805.10180)
 
 ### Image Caption
 
